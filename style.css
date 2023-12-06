@@ -1,0 +1,66 @@
+body {
+    font-family: Geneva, Consolas;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.15em #e4e7ff;
+}
+
+header {
+    background-color: #4169e1;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #4169e1;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos da Galeria */
+.imagem {
+    margin-bottom: 20px;
+}
+
+.imagem img {
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+    
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    border: 3px solid #00f3ff;
+}
+
+.container {
+    padding: 20px 400px;
+}
